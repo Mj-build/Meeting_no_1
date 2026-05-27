@@ -14,4 +14,6 @@ Document Spec for project tools, arcitechture & techniques
 [Multi_Era_RPG_Specifications.pdf](https://github.com/user-attachments/files/28322189/Multi_Era_RPG_Specifications.pdf)
 
 skill map to individua team member skill, experience and upskill requirements 
-[_incoming doc_]
+[Team Skills & Tech Stack Mapping](https://github.com/Mj-build/Meeting_no_1/blob/9aa5d89685fea66525a344c030439137b1704a2c/Team%20Skills%20%26%20Tech%20Stack%20Mapping.md)
+
+
