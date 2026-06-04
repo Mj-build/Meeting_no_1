@@ -184,4 +184,4 @@ To prevent structural blockages, the development workflow follows a strict seque
 | Abdullah | Dummy logic & AI rules | Behavior Tree & "Immunity Shield" | Evaluates incoming damage properties |
 | Praise | Workflow, profiling & integration | Git LFS repo, state manager, profiling logs | Validates performance baseline (60fps) |
 
-*— End of Document —*
+
